@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @MorchidCode
+- 👋 Hi, I’m @MorchidCode
 - 👀 I’m interested in technology, Open source, Web design and Programming
 - 🌱 I’m currently learning Frontend
 - 🫡 Currently using Debian as my main OS
