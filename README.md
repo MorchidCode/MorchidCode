@@ -60,8 +60,7 @@ For hiring or consulting, visit my website: [your-website.com](https://your-webs
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
 - ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 - ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-- ![Apache](https://img.shields.io/badge/apache-%23D42029?style=for-the-badge&logo=apache&logoColor=white)
-- ![Nginx](https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
+- ![Apache](https://img.shields.io/badge/apache-%23D42029?style=for-the-badge&logo=apache&logoColor=white)![Nginx](https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 - 📧 Email: youremail@example.com
 - 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
