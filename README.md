@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="your-profile-image.png" alt="Your Name" width="150" height="150">
-</p>
-
 # MorchidCode
 
 👋 Hi there, I'm MorchidCode! Welcome to my GitHub portfolio.
