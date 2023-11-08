@@ -36,11 +36,6 @@
 ## 🚀 Explore My Website
 
 For hiring or consulting, visit my website: [your-website.com](https://your-website.com)
-
-## 🔧 Technologies and Tools
-
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)![Apache](https://img.shields.io/badge/apache-%23D42029?style=for-the-badge&logo=apache&logoColor=white)![Nginx](https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
-
 - 📧 Email: youremail@example.com
 - 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 - 📸 Instagram: [@yourinstagram](https://instagram.com/yourinstagram)
@@ -49,3 +44,7 @@ For hiring or consulting, visit my website: [your-website.com](https://your-webs
 - 📞 WhatsApp: [Your WhatsApp Number](https://wa.me/yourphonenumber)
 
 Feel free to explore my projects, and don't hesitate to reach out if you'd like to collaborate or discuss anything tech-related. Let's build something amazing together!
+
+## 🔧 Technologies and Tools
+
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)![Apache](https://img.shields.io/badge/apache-%23D42029?style=for-the-badge&logo=apache&logoColor=white)![Nginx](https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
