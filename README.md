@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology, Open source, Web design and Programming
 - 🌱 I’m currently learning Frontend
 - 🫡 Currently using Debian as my main OS
-- 📫 Reach me Here: morchidcode@gmail.com  -  [X](https://twitter.com/MorchidCode)  - [Facebook](https://www.facebook.com/MorchidCode) -  [Instagram](https://www.instagram.com/morchidcode)  -  [GitHub](https://github.com/MorchidCode)  -  [LinkedIn](https://linkedin.com/in/)  -  [Telegram](https://t.me/MorchidCode)  -  [WhatsApp](https://wa.me/+212631781925/)
+- 📫 Reach me Here: morchidcode@gmail.com  -  [X](https://twitter.com/MorchidCode)  - [Facebook](https://www.facebook.com/MorchidCode) -  [Instagram](https://www.instagram.com/morchidcode) - [TikTok](https://www.tiktok.com/@morchidcode) -  [GitHub](https://github.com/MorchidCode)  -  [LinkedIn](https://linkedin.com/in/morchidcode)  -  [Telegram](https://t.me/MorchidCode)  -  [WhatsApp](https://wa.me/+212631781925/)
 <!--  
 - 🤩 Take a look at my website for hiring or consulting: [morchidcode.com]([https://mrzakaria.com/](https://morchidcode.github.io/my_website/))
 -->
