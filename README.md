@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MorchidCode
 - 👀 I’m interested in technology, Open source, Web design and Programming
-- 🌱 I’m currently learning Frontend
+- 🌱 I’m currently learning Web Dev
 - 🫡 Currently using Linux as my main OS
 - 📫 Reach me Here: morchidcode@gmail.com  -  [X](https://twitter.com/MorchidCode)  - [Facebook](https://www.facebook.com/MorchidCode) -  [Instagram](https://www.instagram.com/morchidcode) - [TikTok](https://www.tiktok.com/@morchidcode) -  [GitHub](https://github.com/MorchidCode)  -  [LinkedIn](https://linkedin.com/in/morchidcode)  -  [Telegram](https://t.me/MorchidCode)  -  [WhatsApp](https://wa.me/+212631781925/)
 <!--  
