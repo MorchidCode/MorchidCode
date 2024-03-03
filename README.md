@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MorchidCode
+- 👋 Hi, I’m @MorchidSolution
 - 👀 I’m interested in technology, Open source, Web design and Programming
 - 🌱 I’m currently learning Web Dev
 - 🫡 Currently using Linux as my main OS
